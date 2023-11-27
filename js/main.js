@@ -69,7 +69,7 @@
 
    /* Preloader
     * -------------------------------------------------- */
-    const ssPreloader = function() {
+    /*const ssPreloader = function() {
 
         const preloader = document.querySelector('#preloader');
         if (!preloader) return;
@@ -90,7 +90,7 @@
         //     // window.scrollTo(0, 0);
         // });
 
-    }; // end ssPreloader
+    }; // end ssPreloader*/
 
 
    /* Mobile Menu
